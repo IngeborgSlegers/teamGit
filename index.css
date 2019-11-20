@@ -12,6 +12,7 @@ body {
   display: block;
   float: left;
   width: 50%;
+  font-family: 'Quicksand', sans-serif;
 }
 
 #divRight {
@@ -30,4 +31,12 @@ ul li {
 
 ul {
   margin-top: 3em;
+}
+
+.header {
+  background-color: black;
+  color: whitesmoke;
+  height: 15%;
+  padding: 1em;
+  font-family: 'Quicksand', sans-serif;
 }
